@@ -46,8 +46,8 @@ def main():
 
         apps[app] = app_metadata # Add app metadata dict to apps dict
 
-        if os.path.isfile(app_dir+'/icon.svg'):
-           shutil.copy(app_dir+'/icon.svg', icons_dir+'/'+app+'.svg')
+        if os.path.isfile(app_dir+'/icon.png'):
+           shutil.copy(app_dir+'/icon.png', icons_dir+'/'+app+'.svg')
 
         if os.path.isfile(app_dir+'/screenshot.png'):
            shutil.copy(app_dir+'/screenshot.png', screenshots_dir+'/'+app+'.png')
