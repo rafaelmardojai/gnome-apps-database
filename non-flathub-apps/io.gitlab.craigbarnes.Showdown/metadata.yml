@@ -1,0 +1,5 @@
+name: Showdown
+summary: View Markdown files
+website: https://github.com/craigbarnes/showdown
+categories: [Utility]
+install-flatpak: https://craigbarnes.gitlab.io/showdown/showdown.flatpakref

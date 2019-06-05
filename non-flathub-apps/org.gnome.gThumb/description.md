@@ -1,0 +1,1 @@
+gThumb is an image viewer and browser for the GNOME Desktop. It also includes an importer tool for transferring photos from cameras. 
