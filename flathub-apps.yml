@@ -1,4 +1,5 @@
 - ca.desrt.dconf-editor
+- com.frac_tion.teleport
 - com.github.bilelmoussaoui.Authenticator
 - com.github.birros.WebArchives
 - com.github.Cogitri.gxi
@@ -18,6 +19,7 @@
 - com.vinszent.GnomeTwitch
 - de.haeckerfelix.Fragments
 - de.haeckerfelix.gradio
+- de.haeckerfelix.Remotely
 - de.wolfvollprecht.UberWriter
 - io.github.GnomeMpv
 - io.github.mmstick.FontFinder
