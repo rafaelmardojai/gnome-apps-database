@@ -20,17 +20,21 @@ def main():
     flathub_apps_file = open(d+'/flathub-apps.yml') 
     flathub_apps = yaml.safe_load(flathub_apps_file)
 
-    gen_dir = d+'/generated'
-    screenshots_dir = gen_dir+'/screenshots'
-    icons_dir = gen_dir+'/icons'
+    src_screenshots_dir = d+'/screenshots-src'
+
+    screenshots_dir = d+'/screenshots'
+    icons_dir = d+'/icons'
 
     print('Creating generation dirs...')
-    if os.path.exists(gen_dir):
-        print('Generation dir exists, removing it...')
-        shutil.rmtree(gen_dir)
-    os.makedirs(gen_dir)
+    if os.path.exists(screenshots_dir):
+        print('Screenshots dir exists, removing it...')
+        shutil.rmtree(screenshots_dir)
+    if os.path.exists(icons_dir):
+        print('Icons dir exists, removing it...')
+        shutil.rmtree(icons_dir)
     os.makedirs(icons_dir) # Create icons dir
     os.makedirs(screenshots_dir) # Create screenshots dir
+    print('Created screenshots & icons dirs.')
 
     apps = {}
 
@@ -47,7 +51,7 @@ def main():
         apps[app] = app_metadata # Add app metadata dict to apps dict
 
         if os.path.isfile(app_dir+'/icon.png'):
-           shutil.copy(app_dir+'/icon.png', icons_dir+'/'+app+'.svg')
+           shutil.copy(app_dir+'/icon.png', icons_dir+'/'+app+'.png')
 
         if os.path.isfile(app_dir+'/screenshot.png'):
            shutil.copy(app_dir+'/screenshot.png', screenshots_dir+'/'+app+'.png')
@@ -75,16 +79,19 @@ def main():
             response_img = requests.get('https://flathub.org/'+data['iconDesktopUrl'], stream=True)
             shutil.copyfileobj(response_img.raw, handle)
 
-        with open(screenshots_dir+'/'+flathub_apps[i]+'.png', 'wb') as handle:
-            response_img = requests.get(data['screenshots'][0]['imgDesktopUrl'], stream=True)
-            shutil.copyfileobj(response_img.raw, handle)
+        if os.path.isfile(src_screenshots_dir+'/'+flathub_apps[i]+'.png'): # Check if exist an alt screenshot
+            shutil.copy(src_screenshots_dir+'/'+flathub_apps[i]+'.png', screenshots_dir+'/'+flathub_apps[i]+'.png')
+        else: # Else use flathub screenshot
+            with open(screenshots_dir+'/'+flathub_apps[i]+'.png', 'wb') as handle:
+                response_img = requests.get(data['screenshots'][0]['imgDesktopUrl'], stream=True)
+                shutil.copyfileobj(response_img.raw, handle)
 
         print('- Added '+flathub_apps[i])
 
     print('Creating JSON file...')
-    with open(gen_dir+'/apps.json', 'w') as outfile:
+    with open(d+'/apps.json', 'w') as outfile:
         json.dump(apps, outfile, indent=4)
 
-    print('End. Files generated in: '+gen_dir)
+    print('End. Files generated in: '+d)
 
 main()
