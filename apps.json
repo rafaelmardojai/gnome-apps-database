@@ -1,0 +1,643 @@
+{
+    "io.sourceforge.Curlew": {
+        "name": "Curlew",
+        "summary": "Easy to use Multimedia Converter for Linux",
+        "website": "https://curlew.sourceforge.io/",
+        "categories": [
+            "Utility",
+            "Audio",
+            "Video"
+        ],
+        "description": "<p>Easy to use, Free and Open-Source Multimedia converter for Linux.\nCurlew written in python and GTK3 and it depends on (ffmpeg/avconv).</p>\n\n<h2>Features</h2>\n\n<ul>\n<li>Easy to use and clean user interface.</li>\n<li>Hide the advanced options with the ability to show them.</li>\n<li>Convert to more than 100 different formats.</li>\n<li>Edit formats.</li>\n<li>Shutdown or suspend PC after a conversion process.</li>\n<li>Show file information (duration, remaining time, estimated size, progress value).</li>\n<li>Show file details using mediainfo.</li>\n<li>Skip or remove file during conversion process.</li>\n<li>Preview file before conversion.</li>\n<li>Show video thumbnail.</li>\n<li>Convert a specified portion of file.</li>\n<li>Combine subtitle with video.</li>\n<li>Crop and pad video.</li>\n<li>Show error details if exist.</li>\n<li>And more ...</li>\n</ul>\n"
+    },
+    "com.github.arrufat.pdftag": {
+        "name": "Pdftag",
+        "summary": "Edit PDF metadata",
+        "website": "https://github.com/arrufat/pdftag",
+        "categories": [
+            "Utility"
+        ],
+        "description": "<p>A simple metadata editor for PDFs</p>\n\n<h2>Features</h2>\n\n<p>Pdftag supports editing the following PDF tags:</p>\n\n<ul>\n<li>Title</li>\n<li>Author</li>\n<li>Subject</li>\n<li>Keywords</li>\n<li>Producer</li>\n<li>Creator</li>\n<li>Creation date</li>\n<li>Modification date</li>\n</ul>\n\n<p>It also displays useful non-editable information:</p>\n\n<ul>\n<li>PDF format</li>\n<li>Number of pages</li>\n</ul>\n"
+    },
+    "org.gnome.Epiphany": {
+        "name": "Web",
+        "summary": "Browse the web",
+        "website": "https://wiki.gnome.org/Apps/Web/",
+        "categories": [
+            "Network"
+        ],
+        "description": "<p>The web browser for GNOME, featuring tight integration with the desktop and a simple and intuitive user interface that allows you to focus on your web pages. If you\u2019re looking for a simple, clean, beautiful view of the web, this is the browser for you.</p>\n\n<p>GNOME Web is often referred to by its code name, Epiphany.</p>\n"
+    },
+    "org.gnome.gThumb": {
+        "name": "gThumb",
+        "summary": "View and organize your images",
+        "website": "https://wiki.gnome.org/Apps/Gthumb",
+        "categories": [
+            "Graphics",
+            "Photography"
+        ],
+        "description": "<p>gThumb is an image viewer and browser for the GNOME Desktop. It also includes an importer tool for transferring photos from cameras. </p>\n"
+    },
+    "io.gitlab.craigbarnes.Showdown": {
+        "name": "Showdown",
+        "summary": "View Markdown files",
+        "website": "https://github.com/craigbarnes/showdown",
+        "categories": [
+            "Utility"
+        ],
+        "install-flatpak": "https://craigbarnes.gitlab.io/showdown/showdown.flatpakref",
+        "description": "<p>Showdown is a simple Markdown viewer written in Vala and GTK.</p>\n\n<h2>Features</h2>\n\n<ul>\n<li>GitHub inspired default stylesheet.</li>\n<li>Table of contents navigation.</li>\n<li>Integrated search bar</li>\n<li>User styles (<code>~/.config/showdown/stylesheet.css</code>)</li>\n<li>User scripts (<code>~/.config/showdown/script.js</code>)</li>\n</ul>\n"
+    },
+    "com.gexperts.Tilix": {
+        "name": "Tilix",
+        "summary": "A tiling terminal emulator",
+        "website": "https://gnunn1.github.io/tilix-web/",
+        "categories": [
+            "Utility"
+        ],
+        "description": "<p>A tiling terminal emulator for Linux using GTK+ 3.</p>\n\n<h2>Features</h2>\n\n<ul>\n<li>Layout terminals in any fashion by splitting them horizontally or vertically</li>\n<li>Terminals can be re-arranged using drag and drop both within and between windows</li>\n<li>Terminals can be detached into a new window via drag and drop</li>\n<li>Input can be synchronized between terminals so commands typed in one terminal are replicated to the others</li>\n<li>The grouping of terminals can be saved and loaded from disk</li>\n<li>Terminals support custom titles</li>\n<li>Color schemes are stored in files and custom color schemes can be created by simply creating a new file</li>\n<li>Transparent background</li>\n<li>Background images</li>\n<li>Quake mode support (i.e. drop-down terminal)</li>\n<li>Custom hyperlinks</li>\n<li>Automatic (triggered) profile switches based on hostname and directory</li>\n<li>Supports notifications when processes are completed out of view. Requires the Fedora notification patches for VTE</li>\n<li>Experimental trigger support (Requires patched VTE, see wiki )</li>\n<li>Experimental badge support (Requires patched VTE, see wiki</li>\n</ul>\n"
+    },
+    "com.github.ztefn.haguichi": {
+        "name": "Haguichi",
+        "summary": "Join and create local networks over the Internet",
+        "website": "https://haguichi.net/",
+        "categories": [
+            "Network",
+            "Utility"
+        ],
+        "description": "<p>Provides a graphical frontend for Hamachi on Linux.</p>\n\n<h2>Features</h2>\n\n<ul>\n<li>Fully customizable commands</li>\n<li>Notification bubbles</li>\n<li>Searchable, sortable and collapsible network list</li>\n<li>Easily backup and restore your Hamachi configuration</li>\n<li>Translated into 19 languages</li>\n<li>Support for all popular desktop environments</li>\n<li>Available for a wide range of distributions</li>\n</ul>\n"
+    },
+    "org.gnome.Cheese": {
+        "name": "Cheese",
+        "summary": "Take photos and videos with your webcam, with fun graphical effects",
+        "website": "https://wiki.gnome.org/Apps/Cheese/",
+        "categories": [
+            "Video"
+        ],
+        "description": "<p>Cheese is a program for the GNOME Desktop which allows you to take photos, videos, and anything else you can think of with your webcam.</p>\n\n<p>Just start it up and shoot! Gather all of your friends around, have some fun! When you're done, share your photos and videos with 'em! </p>\n"
+    },
+    "ca.desrt.dconf-editor": {
+        "name": "Dconf Editor",
+        "summary": "A graphical tool for editing the dconf database",
+        "website": "https://wiki.gnome.org/Apps/DconfEditor",
+        "categories": [
+            "System"
+        ],
+        "description": "<p>Dconf Editor is a tool to allow direct editing of the dconf configuration database. This is useful when developing applications that use these settings.</p>\n<p>Editing your configuration directly is an advanced feature and may cause applications to not work correctly.</p>\n"
+    },
+    "com.github.bilelmoussaoui.Authenticator": {
+        "name": "Authenticator",
+        "summary": "Two-factor authentication code generator",
+        "website": "https://gitlab.gnome.org/World/Authenticator",
+        "categories": [
+            "Utility",
+            "Network",
+            "Security"
+        ],
+        "description": "<p>Simple application that generates a two-factor authentication code, created for GNOME.</p>\n<p>Features:</p>\n<ul>\n<li>QR code scanner</li>\n<li>Beautiful UI</li>\n<li>Huge database of more than 560 supported services</li>\n<li>Keep your PIN tokens secure by locking the application with a password</li>\n<li>Automtically fetch an image for services using their favicon</li>\n<li>The possibility to add new services</li>\n<li>Dark theme and night light</li>\n</ul>\n"
+    },
+    "com.github.birros.WebArchives": {
+        "name": "WebArchives",
+        "summary": "A web archives viewer",
+        "website": "https://github.com/birros/web-archives",
+        "categories": [
+            "Archiving",
+            "Utility"
+        ],
+        "description": "<p>A web archives viewer offering the ability to browse offline millions of articles from large community projects such as Wikipedia or Wikisource.</p>\n<p>Features:</p>\n<ul>\n<li>List recently opened web archives</li>\n<li>List available local web archives</li>\n<li>List of web archives available to download</li>\n<li>Print a page</li>\n<li>Night mode (Darkreader)</li>\n<li>Zoom controls</li>\n<li>Search in page</li>\n<li>History</li>\n<li>Bookmarks</li>\n<li>Search a page</li>\n<li>Keyboard shortcuts</li>\n<li>Multi-windows</li>\n<li>Multi-tabs</li>\n<li>Random page</li>\n<li>Sandboxed pages (Pages are isolated from the web)</li>\n<li>Ask for confirmation when opening an external link</li>\n<li>Handle the opening of zim files from external applications (Nautilus...)</li>\n</ul>\n"
+    },
+    "com.github.Cogitri.gxi": {
+        "name": "gxi",
+        "summary": "GTK frontend for the xi text editor",
+        "website": "https://github.com/Cogitri/gxi",
+        "categories": [
+            "TextEditor",
+            "Utility"
+        ],
+        "description": "<p>gxi is a GTK frontend for the xi text editor written in Rust. It's a very fast plain text editor.</p>\n"
+    },
+    "com.github.fabiocolacio.marker": {
+        "name": "Marker",
+        "summary": "Powerful markdown editor",
+        "website": "https://github.com/fabiocolacio/Marker",
+        "categories": [
+            "Utility"
+        ],
+        "description": "<p>Features:</p>\n<ul>\n<li>View and edit markdown documents</li>\n<li>Convert markdown documents to HTML</li>\n<li>Tex math rendering</li>\n<li>Support for mermaid diagrams</li>\n<li>Support for charter plots</li>\n<li>Syntax highlighting for code blocks</li>\n<li>Integrated sketch editor</li>\n<li>Exports to</li>\n<li>Custom CSS themes</li>\n<li>Custom syntax themes</li>\n<li>Figure captioning and numbering</li>\n</ul>\n"
+    },
+    "com.github.geigi.cozy": {
+        "name": "Cozy",
+        "summary": "A modern audio book player",
+        "website": "https://cozy.geigi.de",
+        "categories": [
+            "Audio",
+            "Player",
+            "AudioVideo"
+        ],
+        "description": "<p>You like audio books? Then lets get cozy!</p>\n<p>Cozy is a modern audio book player. Here are some of the current features:</p>\n<ul>\n<li>Import all your audiobooks into cozy to browse them comfortably</li>\n<li>Listen to your DRM free mp3, m4a (aac, ALAC, ...), flac, ogg and wav audio books</li>\n<li>Remembers your playback position</li>\n<li>Sleep timer!</li>\n<li>Playback speed control for each book individually</li>\n<li>Search your library</li>\n<li>Multiple storage location support</li>\n<li>Offline Mode! This allows you to keep an audiobook on your internal storage if you store your audiobooks on an external or network drive. Perfect to listen to on the go!</li>\n<li>Drag and Drop to import new audiobooks</li>\n<li>Sort your audio books by author, reader and name</li>\n</ul>\n<p>Note: If you're from the EU and want to support this project, you can find me on Patreon (link down below). Because of tax reasons I cannot accept payments from the EU except from Germany.</p>\n"
+    },
+    "com.github.gkarsay.parlatype": {
+        "name": "Parlatype",
+        "summary": "Media player for speech transcription",
+        "website": "https://gkarsay.github.io/parlatype/",
+        "categories": [
+            "Audio",
+            "Player",
+            "AudioVideo"
+        ],
+        "description": "<p>Parlatype is an easy to use media player. Its main purpose is to help you transcribing speech.</p>\n"
+    },
+    "com.github.johnfactotum.Foliate": {
+        "name": "Foliate",
+        "summary": "A simple and modern eBook viewer",
+        "website": "https://johnfactotum.github.io/foliate/",
+        "categories": [
+            "Office",
+            "Viewer"
+        ],
+        "description": "<p>Foliate is a simple and modern GTK eBook viewer.</p>\n<p>Features include:</p>\n<ul>\n<li>Two-page view and scrolled view</li>\n<li>Customize font and line-spacing</li>\n<li>Light, sepia, dark, and invert mode</li>\n<li>Reading progress slider with chapter marks</li>\n<li>Bookmarks and annotations</li>\n<li>Find in book</li>\n<li>Quick dictionary lookup</li>\n</ul>\n"
+    },
+    "com.github.maoschanz.drawing": {
+        "name": "Drawing",
+        "summary": "A drawing application for the GNOME desktop.",
+        "website": "https://github.com/maoschanz/drawing/wiki",
+        "categories": [
+            "Graphics"
+        ],
+        "description": "<p>A simple application to draw or edit pictures.</p>\n<p>It includes tools like:</p>\n<ul>\n<li>Pencil</li>\n<li>Selection (cut/copy/paste/drag/\u2026)</li>\n<li>Line</li>\n<li>Arc</li>\n<li>Rectangle</li>\n<li>Circle</li>\n<li>Polygon</li>\n<li>Shape</li>\n<li>Text</li>\n<li>Paint</li>\n</ul>\n"
+    },
+    "com.github.maoschanz.DynamicWallpaperEditor": {
+        "name": "Dynamic Wallpaper Editor",
+        "summary": "Create or edit XML dynamic wallpapers (\"background slideshows\") for the GNOME desktop",
+        "website": "https://github.com/maoschanz/dynamic-wallpaper-editor",
+        "categories": [
+            "Utility"
+        ],
+        "description": "<p>A simple utility to create or edit dynamic wallpapers for GNOME Shell. The duration of each picture and each transition can be set separately or globally.</p>\n"
+    },
+    "com.github.needleandthread.vocal": {
+        "name": "Vocal",
+        "summary": "A Great Podcast Client for the Modern Free Desktop",
+        "website": "http://github.com/needle-and-thread/vocal",
+        "categories": [
+            "Video",
+            "AudioVideo",
+            "Audio"
+        ],
+        "description": "<p>Vocal is the best way to find interesting new podcasts, maintain a growing library, and enjoy audio and video shows that automatically get updated with new content.</p>\n<p>Features include:</p>\n<ul>\n<li>Audio and video podcast support</li>\n<li>Built-in iTunes podcast store browsing and search</li>\n<li>Episode streaming and downloading</li>\n<li>Custom skip intervals</li>\n<li>Full system integration</li>\n<li>Automatic downloads</li>\n<li>Smart library management</li>\n<li>Playback position saving</li>\n<li>Library importing and exporting</li>\n<li>Internet Archive integration</li>\n<li>... and much more!</li>\n</ul>\n"
+    },
+    "com.github.paolostivanin.OTPClient": {
+        "name": "OTPClient",
+        "summary": "GTK+ application for managing TOTP and HOTP tokens with built-in encryption.",
+        "website": "https://github.com/paolostivanin/OTPClient",
+        "categories": [
+            "Utility"
+        ],
+        "description": "<p>Easy to use GTK+ application for securely managing TOTP and HOTP tokens. The content is encrypted on the disk using AES256-GCM and the master password is derived using PBKDF2 with 100k iterations and SHA512 as hash algorithm. It's also possible to import encrypted backups from andOTP and Authenticator+.</p>\n"
+    },
+    "com.github.wwmm.pulseeffects": {
+        "name": "PulseEffects",
+        "summary": "Audio Effects for PulseAudio Applications",
+        "website": "https://github.com/wwmm/pulseeffects",
+        "categories": [
+            "AudioVideo",
+            "Audio"
+        ],
+        "description": "<p>PulseEffects is an advanced audio manipulation tools. It includes an equalizer, limiter, compressor and a reverberation tool, just to mention a few. To complement this there is also a built in spectrum analyzer.</p>\n<p>Because PulseEffects uses the default PulseAudio sound server it will work with most, if not all, applications you use. All supported applications are presented in the main window, where each can be enabled individually.</p>\n<p>Besides manipulating sound output, PulseEffects is able to apply effects to an input device, such as a microphone. This is, for example, useful in audio recording, but it also works well during voice conversations.</p>\n<p>When PulseEffects is launched it will conveniently remember the configuration used in the last session. It is also possible to save all the current settings as profiles.</p>\n"
+    },
+    "com.jonathankang.Weibird": {
+        "name": "Weibird",
+        "summary": "Native GTK+ Weibo client",
+        "website": "https://github.com/JonathanKang/weibird",
+        "categories": [
+            "Utility"
+        ],
+        "description": "No description available"
+    },
+    "com.leinardi.gwe": {
+        "name": "GreenWithEnvy",
+        "summary": "System utility designed to provide information, control the fans and overclock your NVIDIA card",
+        "website": "https://gitlab.com/leinardi/gwe",
+        "categories": [
+            "Utility"
+        ],
+        "description": "<p>GWE is a GTK system utility designed to provide information, control the fans and overclock your NVIDIA video card and graphics processor.</p>\n"
+    },
+    "com.uploadedlobster.peek": {
+        "name": "Peek",
+        "summary": "Simple screen recorder with an easy to use interface",
+        "website": "http://peek.uploadedlobster.com",
+        "categories": [
+            "2DGraphics",
+            "Graphics",
+            "GTK",
+            "GNOME",
+            "Utility"
+        ],
+        "description": "<p>Peek makes it easy to create short screencasts of a screen area. It was built for the specific use case of recording screen areas, e.g. for easily showing UI features of your own apps or for showing a bug in bug reports. With Peek you simply place the Peek window over the area you want to record and press \"Record\". Peek is optimized for generating animated GIFs, but you can also directly record to WebM or MP4 if you prefer.</p>\n<p>Features:</p>\n<ul>\n<li>Select a screen region to record</li>\n<li>Save recorded video as an optimized animated GIF</li>\n<li>Record directly to WebM or MP4 format</li>\n<li>Simple user interface optimized for the task</li>\n<li>Automatically downscale recorded videos</li>\n<li>Support for HiDPI screens</li>\n<li>Works inside a GNOME Shell Wayland session (using XWayland)</li>\n</ul>\n<p>Peek is not a general purpose screencast app with extended features but rather focuses on the single task of creating small, silent screencasts of an area of the screen for creating GIF animations or silent WebM or MP4 videos.</p>\n"
+    },
+    "com.vinszent.GnomeTwitch": {
+        "name": "GNOME Twitch",
+        "summary": "Twitch desktop client",
+        "website": "http://gnome-twitch.vinszent.com/",
+        "categories": [
+            "AudioVideo",
+            "Player",
+            "Video"
+        ],
+        "description": "<p>Allows searching for and watching Twitch streams from the desktop.</p>\n<p>Notable Features:</p>\n<ul>\n<li>Watch your favourite streams natively with fully accelerated video</li>\n<li>Built in chat which can even be overlayed over the video</li>\n<li>Easy favourites/follows management and receive notifications when they are online</li>\n</ul>\n"
+    },
+    "de.haeckerfelix.Fragments": {
+        "name": "Fragments",
+        "summary": "A BitTorrent Client",
+        "website": "https://gitlab.gnome.org/World/Fragments",
+        "categories": [
+            "Utility"
+        ],
+        "description": "<p>Fragments is an easy to use BitTorrent client which follows the GNOME HIG and includes well thought-out features.</p>\n"
+    },
+    "de.haeckerfelix.gradio": {
+        "name": "Gradio",
+        "summary": "Find and listen to internet radio stations",
+        "website": "https://github.com/haecker-felix/Gradio",
+        "categories": [
+            "Audio",
+            "AudioVideo",
+            "Player"
+        ],
+        "description": "<p>With Gradio you can browse, search and of course play radio stations. All this is simple and uncomplicated.</p>\n"
+    },
+    "de.wolfvollprecht.UberWriter": {
+        "name": "UberWriter",
+        "summary": "An elegant, free distraction GTK+ markdown editor",
+        "website": "http://uberwriter.github.io/uberwriter",
+        "categories": [
+            "TextEditor",
+            "Office",
+            "GTK"
+        ],
+        "description": "<p>Uberwriter is a GTK+ based distraction free Markdown editor, mainly developed by Wolf Vollprecht and Manuel Genov\u00e9s. It uses pandoc as backend for markdown parsing and offers a very clean and sleek user interface.</p>\n<p>You can install the recommended TexLive extension with the command:</p>\n<p>flatpak install flathub de.wolfvollprecht.UberWriter.Plugin.TexLive</p>\n<p>or from Gnome-Software</p>\n"
+    },
+    "io.github.GnomeMpv": {
+        "name": "GNOME MPV",
+        "summary": "GTK+ frontend for mpv",
+        "website": "http://gnome-mpv.github.io",
+        "categories": [
+            "AudioVideo",
+            "Player",
+            "Video",
+            "TV"
+        ],
+        "description": "<p>GNOME MPV is a simple GTK+ frontend for mpv, which is a very powerful media player capable of playing virtually all video and audio formats. The design of GNOME MPV is based on GNOME HIG, though it is not dependent on any GNOME libraries. GNOME MPV also offers an option to disable client-side decorations (CSD) for better compatibility with non-GNOME systems.</p>\n<p>Features:</p>\n<ul>\n<li>Drag and drop playlist</li>\n<li>Loading external mpv configuration files</li>\n<li>MPRIS2 D-Bus interface</li>\n</ul>\n"
+    },
+    "io.github.mmstick.FontFinder": {
+        "name": "FontFinder",
+        "summary": "Font browser",
+        "website": "https://github.com/mmstick/fontfinder",
+        "categories": [
+            "Utility"
+        ],
+        "description": "<p>An application for browsing and installing fonts from Google's font archive from the comfort of your Linux desktop.</p>\n"
+    },
+    "io.otsaloma.nfoview": {
+        "name": "NFO Viewer",
+        "summary": "Viewer for NFO files",
+        "website": "https://otsaloma.io/nfoview/",
+        "categories": [
+            "GTK",
+            "Viewer",
+            "Utility"
+        ],
+        "description": "<p>NFO Viewer is a simple viewer for NFO files, which are \"ASCII\" art in the CP437 codepage. The advantages of using NFO Viewer instead of a text editor are preset font and encoding settings, automatic window size and clickable hyperlinks.</p>\n"
+    },
+    "me.kozec.syncthingtk": {
+        "name": "Syncthing GTK",
+        "summary": "GUI for Syncthing",
+        "website": "https://github.com/syncthing/syncthing-gtk/",
+        "categories": [
+            "Network"
+        ],
+        "description": "<p>GTK3 & Python based GUI and notification area icon for Syncthing</p>\n"
+    },
+    "ml.prevete.Daty": {
+        "name": "Daty",
+        "summary": "Free Wikidata editor.",
+        "website": "https://gitlab.gnome.org/World/Daty/",
+        "categories": [
+            "Network"
+        ],
+        "description": "<p>Daty is a free Wikidata editor adhering to GNOME Human Interface Guidelines, intended to enable a better editing workflow and faster deployment of requested user features for Wikidata.</p>\n<p>Use Daty to search, select, read, batch edit items, script actions, share, visualize proposed changes and bots.</p>\n<p>WARNING: This is a preview release, so entities editing is disabled.</p>\n"
+    },
+    "nl.g4d.Girens": {
+        "name": "Girens for Plex",
+        "summary": "Girens is a Plex GTK client for playing movies, TV shows and music from your Plex library.",
+        "website": "https://gitlab.gnome.org/tijder/girens",
+        "categories": [
+            "Player",
+            "AudioVideo",
+            "Video",
+            "Audio"
+        ],
+        "description": "<p>Girens is a Plex media player client. You can watch and listen to your music, shows and movies with this GTK app.</p>\n"
+    },
+    "nl.hjdskes.gcolor3": {
+        "name": "Color picker",
+        "summary": "Choose colors from the picker or the screen",
+        "website": "https://hjdskes.nl/projects/gcolor3/",
+        "categories": [
+            "Graphics"
+        ],
+        "description": "<p>Ever wanted to know the value of that color on your screen? Gcolor3 enables you to pick the color from any pixel on your screen. It also offers a palette, so that you can easily mix and match a couple of colors together.</p>\n<p>When you have found the perfect combination of colors, naturally you want to save them. Gcolor3 allows you to conveniently save and retrieve colors.</p>\n<p>Gcolor3 is a color selection dialog written in GTK+ 3. It is much alike Gcolor2, but uses the newer GTK+ version and other modernisations to better integrate into your modern desktop.</p>\n"
+    },
+    "org.freedesktop.Piper": {
+        "name": "Piper",
+        "summary": "Configurable mouse configuration utility",
+        "website": "https://github.com/libratbag/piper/",
+        "categories": [
+            "Utility"
+        ],
+        "description": "<p>Piper is a graphical user interface to configure gaming mice. Configuration options include changing the resolution (DPI) of the mouse, adding and removing profiles, setting LED colors and changing button behaviors.</p>\n<p>Piper requires libratbag\u2019s ratbagd, the daemon to actually communicate with the mice. Piper is merely a front end to ratbagd, ratbagd must be installed and running when Piper is launched.</p>\n"
+    },
+    "org.gabmus.hydrapaper": {
+        "name": "HydraPaper",
+        "summary": "Wallpaper manager with multimonitor support for GNOME",
+        "website": "https://gitlab.com/gabmus/hydrapaper",
+        "categories": [
+            "Utility"
+        ],
+        "description": "<p>Hydrapaper lets you set different wallpapers for each of your monitors in the GNOME desktop.</p>\n<p>It uses Pillow to create a single image merging all of your chosen wallpapers and setting it as your wallpaper with the \"Spanned\" option.</p>\n"
+    },
+    "org.gahshomar.Gahshomar": {
+        "name": "Gahshomar",
+        "summary": "A Persian/Jalali/Farsi calendar",
+        "website": "https://gahshomar.github.io/gahshomar/",
+        "categories": [
+            "Calendar",
+            "Office"
+        ],
+        "description": "<p>Gahshomar makes it easy for you to keep track of two different calendars.</p>\n"
+    },
+    "org.gnome.bijiben": {
+        "name": "Bijiben",
+        "summary": "Quickly jot notes",
+        "website": "https://wiki.gnome.org/Apps/Bijiben",
+        "categories": [
+            "Utility"
+        ],
+        "description": "<p>A quick and easy way to make freeform notes or jot down simple lists. Store as many notes as you like and share them by email.</p>\n<p>You can store your notes locally on your computer or sync with online services like ownCloud.</p>\n"
+    },
+    "org.gnome.Books": {
+        "name": "Books",
+        "summary": "An e-book manager application for GNOME",
+        "website": "https://wiki.gnome.org/Apps/Books",
+        "categories": [
+            "Utility",
+            "Core"
+        ],
+        "description": "<p>A simple application to access and organize your e-books on GNOME. It is meant to be a simple and elegant replacement for using a file manager to deal with e-books.</p>\n<p>It lets you:</p>\n<ul>\n<li>View recent e-books</li>\n<li>Search through e-books</li>\n<li>View e-books (ePubs and comics) fullscreen</li>\n</ul>\n"
+    },
+    "org.gnome.Boxes": {
+        "name": "GNOME Boxes",
+        "summary": "Simple remote and virtual machines",
+        "website": "https://wiki.gnome.org/Apps/Boxes",
+        "categories": [
+            "System"
+        ],
+        "description": "<p>A simple GNOME 3 application to access remote or virtual systems. Unlike some other virtual machine management software, Boxes is targeted towards typical desktop end-users. For this reason, Boxes will not provide many advanced options to tweak virtual machines. Instead Boxes will focus on getting things working out of the box with very little input from user.</p>\n<p>You want to install Boxes if you just want a very safe and easy way to try out new operating systems or new (potentially unstable) versions of your favorite operating system(s), or need to connect to a remote machine (for example, in your office).</p>\n"
+    },
+    "org.gnome.Builder": {
+        "name": "Builder",
+        "summary": "An IDE for GNOME",
+        "website": "https://wiki.gnome.org/Apps/Builder",
+        "categories": [
+            "IDE",
+            "Development"
+        ],
+        "description": "<p>Builder is an actively developed Integrated Development Environment for GNOME. It combines integrated support for essential GNOME technologies such as GTK+, GLib, and GNOME APIs with features that any developer will appreciate, like syntax highlighting and snippets.</p>\n<p>You can rely on predictable releases of Builder with each new release of GNOME every six months.</p>\n<p>Features:</p>\n<ul>\n<li>Built in syntax highlighting for many languages</li>\n<li>Side-by-side code editors</li>\n<li>Multi-monitor support</li>\n<li>Code overview mini-map</li>\n<li>Integration with Git</li>\n<li>Integration with Autotools, Cargo, CMake, Gradle, Meson, Maven, Make, PHPize, and Waf</li>\n<li>Clang based auto-completion, semantic highlighting, and diagnostics</li>\n<li>Python based auto-completion, semantic highlighting, and diagnostics</li>\n<li>Vala based auto-completion and diagnostics</li>\n<li>Auto indentation support for C, Python, Vala, and XML</li>\n<li>HTML, Markdown, and reStructuredText, and Sphinx live preview</li>\n<li>Optional Vim, Emacs, and SublimeText style editing</li>\n<li>An integrated software profiler for native applications</li>\n<li>An integrated debugger for native applications</li>\n<li>Support for building with jhbuild and flatpak runtimes</li>\n<li>Support for viewing TODOs found within your code base</li>\n<li>Fast fuzzy text search across files and symbols</li>\n</ul>\n"
+    },
+    "org.gnome.Calendar": {
+        "name": "Calendar",
+        "summary": "Calendar for GNOME",
+        "website": "https://wiki.gnome.org/Apps/Calendar",
+        "categories": [
+            "Core",
+            "Office",
+            "Calendar"
+        ],
+        "description": "<p>GNOME Calendar is a simple and beautiful calendar application designed to perfectly fit the GNOME desktop. By reusing the components which the GNOME desktop is built on, Calendar nicely integrates with the GNOME ecosystem.</p>\n<p>We aim to find the perfect balance between nicely crafted features and user-centred usability. No excess, nothing missing. You\u2019ll feel comfortable using Calendar, like you\u2019ve been using it for ages!</p>\n"
+    },
+    "org.gnome.Documents": {
+        "name": "Documents",
+        "summary": "A document manager application for GNOME",
+        "website": "https://wiki.gnome.org/Apps/Documents",
+        "categories": [
+            "Core",
+            "Utility"
+        ],
+        "description": "<p>A simple application to access, organize and share your documents on GNOME. It is meant to be a simple and elegant replacement for using a file manager to deal with documents. Seamless cloud integration is offered through GNOME Online Accounts.</p>\n<p>It lets you:</p>\n<ul>\n<li>View recent local and online documents</li>\n<li>Access your Google, ownCloud or OneDrive content</li>\n<li>Search through documents</li>\n<li>See new documents shared by friends</li>\n<li>View documents fullscreen</li>\n<li>Print documents</li>\n<li>Select favorites</li>\n<li>Allow opening full featured editor for non-trivial changes</li>\n</ul>\n"
+    },
+    "org.gnome.Eolie": {
+        "name": "Eolie",
+        "summary": "Web browser",
+        "website": "https://wiki.gnome.org/Apps/Eolie",
+        "categories": [
+            "WebBrowser",
+            "Network",
+            "Web"
+        ],
+        "description": "<p>Eolie is a new GNOME web browser.</p>\n"
+    },
+    "org.gnome.FeedReader": {
+        "name": "FeedReader",
+        "summary": "RSS client for various webservices",
+        "website": "https://jangernert.github.io/FeedReader/",
+        "categories": [
+            "Network",
+            "Feed"
+        ],
+        "description": "<p>FeedReader is a program designed to complement an already existing web-based RSS reader account.</p>\n<p>Currently supported services:</p>\n<ul>\n<li>Feedbin</li>\n<li>Feedly</li>\n<li>FreshRSS</li>\n<li>InoReader</li>\n<li>Local RSS</li>\n<li>Nextcloud/ownCloud</li>\n<li>The Old Reader</li>\n<li>Tiny Tiny RSS</li>\n</ul>\n<p>It combines all the advantages of web based services like syncing across all your devices with everything you expect from a modern desktop program: Desktop notifications, fast search and filtering, tagging, sharing to \"read-it-later\" services like Pocket and Instapaper, handy keyboard shortcuts and a database that keeps all your old articles as long as you like.</p>\n<p>FeedReader also allows you to save articles to read-it-later with the supported services for now:</p>\n<ul>\n<li>Instapaper</li>\n<li>Pocket</li>\n<li>Wallabag</li>\n</ul>\n<p>It also let you share any article with your friends using:</p>\n<ul>\n<li>Email</li>\n<li>Twitter</li>\n<li>Telegram</li>\n</ul>\n"
+    },
+    "org.gnome.Fractal": {
+        "name": "Fractal",
+        "summary": "Matrix group messaging app",
+        "website": "https://gitlab.gnome.org/World/fractal",
+        "categories": [
+            "InstantMessaging",
+            "Network"
+        ],
+        "description": "<p>Fractal is a Matrix messaging app for GNOME written in Rust. Its interface is optimized for collaboration in large groups, such as free software projects.</p>\n"
+    },
+    "org.gnome.frogr": {
+        "name": "frogr",
+        "summary": "A flickr uploader for GNOME",
+        "website": "https://wiki.gnome.org/Apps/Frogr",
+        "categories": [
+            "Graphics"
+        ],
+        "description": "<p>frogr allows users to manage their accounts on the Flickr photo hosting service with a simple and direct interface.</p>\n<p>It supports all the basic Flickr features, including uploading pictures, adding descriptions, setting tags and managing sets and groups pools.</p>\n"
+    },
+    "org.gnome.Games": {
+        "name": "Games",
+        "summary": "Simple game launcher for GNOME",
+        "website": "https://wiki.gnome.org/Apps/Games",
+        "categories": [
+            "Game",
+            "Player"
+        ],
+        "description": "<p>Games is a GNOME 3 application to browse your video games library and to easily pick and play a game from it. It aims to do for games what Music already does for your music library.</p>\n<p>You want to install Games if you just want a very simple and comfortable way to play your games and you don\u2019t need advanced features such as speedrunning tools or video game development tools.</p>\n<p>Features:</p>\n<ul>\n<li>List your installed games, your Steam games, your game ROMs\u2026</li>\n<li>Search in your games collection</li>\n<li>Play your games</li>\n<li>Resume your game to where you left it</li>\n</ul>\n"
+    },
+    "org.gnome.Geary": {
+        "name": "Geary",
+        "summary": "Send and receive email",
+        "website": "https://wiki.gnome.org/Apps/Geary",
+        "categories": [
+            "Office",
+            "Network",
+            "Email"
+        ],
+        "description": "<p>Geary is an email application built around conversations, for the GNOME 3 desktop. It allows you to read, find and send email with a straightforward, modern interface.</p>\n<p>Conversations allow you to read a complete discussion without having to find and click from message to message.</p>\n<p>Geary\u2019s features include:</p>\n<ul>\n<li>Quick email account setup</li>\n<li>Shows related messages together in conversations</li>\n<li>Fast, full text and keyword search</li>\n<li>Full-featured HTML and plain text message composer</li>\n<li>Desktop notification of new mail</li>\n<li>Compatible with GMail, Yahoo! Mail, Outlook.com and other IMAP servers</li>\n</ul>\n"
+    },
+    "org.gnome.gedit": {
+        "name": "gedit",
+        "summary": "Edit text files",
+        "website": "https://wiki.gnome.org/Apps/Gedit",
+        "categories": [
+            "Utility",
+            "TextEditor"
+        ],
+        "description": "<p>gedit is the official text editor of the GNOME desktop environment. While aiming at simplicity and ease of use, gedit is a powerful general purpose text editor.</p>\n<p>Whether you are writing the next bestseller, programming an innovative application, or simply taking some quick notes, gedit will be a reliable tool to accomplish your task.</p>\n<p>Its flexible plugin system allows you to tailor the application to your needs and adapt it to your workflow.</p>\n"
+    },
+    "org.gnome.gitg": {
+        "name": "gitg",
+        "summary": "Graphical user interface for git",
+        "website": "https://wiki.gnome.org/Apps/Gitg",
+        "categories": [
+            "Development"
+        ],
+        "description": "<p>gitg is a graphical user interface for git. It aims at being a small, fast and convenient tool to visualize the history of git repositories. Besides visualization, gitg also provides several utilities to manage your repository and commit your work.</p>\n<p>Goals</p>\n<ul>\n<li>Browse local git repositories</li>\n<li>Clone local and remote git repositories</li>\n<li>Commit files</li>\n<li>Retrieve patch from a commit</li>\n</ul>\n"
+    },
+    "org.gnome.Glade": {
+        "name": "Glade",
+        "summary": "Create or open user interface designs for GTK+ applications",
+        "website": "http://glade.gnome.org/",
+        "categories": [
+            "GUIDesigner",
+            "Development"
+        ],
+        "description": "<p>Glade is a RAD tool to enable quick & easy development of user interfaces for the GTK+ 3 toolkit and the GNOME desktop environment.</p>\n<p>The user interfaces designed in Glade are saved as XML and these can be loaded by applications dynamically as needed by using GtkBuilder or used directly to define a new GtkWidget derived object class using GTK+ new template feature.</p>\n<p>By using GtkBuilder, Glade XML files can be used in numerous programming languages including C, C++, C#, Vala, Java, Perl, Python, and others.</p>\n"
+    },
+    "org.gnome.Keysign": {
+        "name": "Keysign",
+        "summary": "OpenPGP Keysigning helper",
+        "website": "https://wiki.gnome.org/Apps/Keysign",
+        "categories": [
+            "Utility"
+        ],
+        "description": "<p>GNOME-Keysign allows signing OpenPGP keys comfortably and securely via the local network or Bluetooth.</p>\n<p>It can scan another key's barcode and transfer the key securely, allowing for casual two-party key signing sessions. It follows best practises by sending the encrypted signatures to the UIDs of a key using the Email client the user configured to use.</p>\n"
+    },
+    "org.gnome.Lollypop": {
+        "name": "Lollypop",
+        "summary": "Play and organize your music collection",
+        "website": "https://wiki.gnome.org/Apps/Lollypop",
+        "categories": [
+            "Audio",
+            "AudioVideo",
+            "Player"
+        ],
+        "description": "<p>Lollypop is a modern music player for GNOME.</p>\n<p>Features:</p>\n<ul>\n<li>Play many audio formats: MP3, MP4, OGG, and FLAC</li>\n<li>Intuitive browsing: Walk through your collection by genre/artist and album artwork</li>\n<li>Search in your collection by artist, album and title</li>\n<li>Artist bio, lyrics: Get artist and track information from the web</li>\n<li>Party mode: No awkward silences, let Lollypop choose music for you</li>\n<li>ReplayGain (RG): Automatically select the best audio level</li>\n<li>Cover art downloader: Automatic artwork downloader from Last.fm, Itunes and Spotify</li>\n<li>MTP devices: Sync your music with Android phones and any MTP devices</li>\n<li>Fullscreen view: Visual access from your couch</li>\n<li>Radios support</li>\n<li>Last.fm, Libre.fm and ListenBrainz support</li>\n<li>Auto install codecs</li>\n<li>HiDPI support</li>\n<li>TuneIn support</li>\n</ul>\n"
+    },
+    "org.gnome.Maps": {
+        "name": "GNOME Maps",
+        "summary": "Find places around the world",
+        "website": "http://wiki.gnome.org/Apps/Maps",
+        "categories": [
+            "Utility"
+        ],
+        "description": "<p>Maps gives you quick access to maps all across the world. It allows you to quickly find the place you\u2019re looking for by searching for a city or street, or locate a place to meet a friend.</p>\n<p>Maps uses the collaborative OpenStreetMap database, made by hundreds of thousands of people across the globe.</p>\n<p>You can even search for specific types of locations, such as \u201cPubs near Main Street, Boston\u201d or \u201cHotels near Alexanderplatz, Berlin\u201d.</p>\n"
+    },
+    "org.gnome.Music": {
+        "name": "GNOME Music",
+        "summary": "Play and organize your music collection",
+        "website": "https://wiki.gnome.org/Apps/Music",
+        "categories": [
+            "Player",
+            "Audio",
+            "AudioVideo"
+        ],
+        "description": "<p>An easy way to play your music. Automatically discover music on your computer, the local network and internet services.</p>\n<p>Find tracks in your local collection, get music from DLNA servers or try something new with the Jamendo and Magnatune services.</p>\n"
+    },
+    "org.gnome.Photos": {
+        "name": "Photos",
+        "summary": "Access, organize and share your photos on GNOME",
+        "website": "https://wiki.gnome.org/Apps/Photos",
+        "categories": [
+            "Photography",
+            "Core",
+            "Graphics"
+        ],
+        "description": "<p>Access, organize and share your photos on GNOME. A simple and elegant replacement for using a file manager to deal with photos. Enhance, crop and edit in a snap. Seamless cloud integration is offered through GNOME Online Accounts.</p>\n<p>You can:</p>\n<ul>\n<li>Automatically find all your pictures</li>\n<li>View recent local and online photos</li>\n<li>Access your Facebook or Flickr pictures</li>\n<li>View photos on TVs, laptops or other DLNA renderers on your local network</li>\n<li>Set pictures as your desktop background</li>\n<li>Print photos</li>\n<li>Select favorites</li>\n<li>Easily edit your pictures in the app, or send to a full featured editor for more advanced changes</li>\n</ul>\n"
+    },
+    "org.gnome.Polari": {
+        "name": "Polari",
+        "summary": "An Internet Relay Chat Client for GNOME",
+        "website": "https://wiki.gnome.org/Apps/Polari",
+        "categories": [
+            "IRCClient",
+            "Network"
+        ],
+        "description": "<p>A simple Internet Relay Chat (IRC) client that is designed to integrate seamlessly with GNOME; it features a simple and beautiful interface which allows you to focus on your conversations.</p>\n<p>You can use Polari to publicly chat with people in a channel, and to have private one-to-one conversations. Notifications make sure that you never miss an important message \u2014 for private conversations, they even allow you to reply instantly without switching back to the application!</p>\n"
+    },
+    "org.gnome.SoundRecorder": {
+        "name": "Sound Recorder",
+        "summary": "A simple, modern sound recorder for GNOME",
+        "website": "https://wiki.gnome.org/Apps/SoundRecorder",
+        "categories": [
+            "Audio",
+            "AudioVideo"
+        ],
+        "description": "<p>Sound Recorder provides a simple and modern interface that provides a straight-forward way to record and play audio. It allows you to do basic editing, and create voice memos.</p>\n<p>Sound Recorder automatically handles the saving process so that you do not need to worry about accidentally discarding the previous recording.</p>\n<p>Supported audio formats:</p>\n<ul>\n<li>Ogg Vorbis, Opus, FLAC, MP3 and MOV</li>\n</ul>\n"
+    },
+    "org.gnome.Todo": {
+        "name": "To Do",
+        "summary": "Task manager for GNOME",
+        "website": "https://wiki.gnome.org/Apps/Todo",
+        "categories": [
+            "Utility"
+        ],
+        "description": "<p>GNOME To Do is a task management application designed to integrate with GNOME. It is extensible through plugins and supports custom task providers.</p>\n"
+    },
+    "org.gnome.Weather": {
+        "name": "Weather",
+        "summary": "Show weather conditions and forecast",
+        "website": "https://wiki.gnome.org/Apps/Weather",
+        "categories": [
+            "Core",
+            "Utility"
+        ],
+        "description": "<p>A small application that allows you to monitor the current weather conditions for your city, or anywhere in the world.</p>\n<p>It provides access to detailed forecasts, up to 7 days, with hourly details for the current and next day, using various internet services.</p>\n<p>It also optionally integrates with the GNOME Shell, allowing you see the current conditions of the most recently searched cities by just typing its name in the Activities Overview.</p>\n"
+    },
+    "org.pitivi.Pitivi": {
+        "name": "Pitivi",
+        "summary": "Create and edit your own movies",
+        "website": "http://www.pitivi.org",
+        "categories": [
+            "Video",
+            "AudioVideo",
+            "AudioVideoEditing"
+        ],
+        "description": "<p>Pitivi is a video editor that aims to appeal to hobbyists and professionals alike, with a strong focus on efficiency, quality and usability. It integrates well with other applications and sports a beautiful user interface designed to be powerful yet easy to learn.</p>\n<p>With a non-modal editing workflow, a framerate-independent and playhead-centric timeline, Pitivi allows you quickly and accurately trim, split and review your scenes. Pitivi's ripple and roll editing features allow spending more time on storytelling and less time on \"pushing clips around\".</p>\n<p>Some other features include:</p>\n<ul>\n<li>Accepts any file formats supported by the GStreamer multimedia framework</li>\n<li>Can animate hundreds of special effects and filters with keyframable properties</li>\n<li>Ability to set custom aspect ratios, framerates and rendering presets</li>\n<li>Easy to use crossfades and SMPTE transitions</li>\n<li>Multihead-friendly with detachable user interface components</li>\n</ul>\n"
+    },
+    "work.openpaper.Paperwork": {
+        "name": "Paperwork",
+        "summary": "Personal document manager",
+        "website": "https://openpaper.work/",
+        "categories": [
+            "Scanning",
+            "Office",
+            "Archiving",
+            "OCR",
+            "GNOME"
+        ],
+        "description": "<p>Sorting documents is a machine's job. Paperwork is an easy-to-use application which allows you to find in all your documents when you need them. Type a few keywords in the search bar and the list of papers will shrink to only the relevant content.</p>\n<p>This is where the magic happens: Paperwork uses automatically optical character recognition (OCR) to convert your papers into searchable documents.</p>\n<p>Main features are:</p>\n<ul>\n<li>Scanner support</li>\n<li>PDF support</li>\n<li>Automatic detection of page orientation</li>\n<li>OCR</li>\n<li>Document labels</li>\n<li>Automatic guessing of the labels to apply on new documents</li>\n<li>Search</li>\n<li>Keyword suggestions</li>\n<li>Quick edit of scans</li>\n</ul>\n"
+    }
+}
